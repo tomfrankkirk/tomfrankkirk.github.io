@@ -3,7 +3,7 @@
 PhD student at the Institute of Biomedical Engineering / Wellcome Centre for Integrative Neuroimaging, Oxford University. 
 Currently research new analysis techniques for arterial spin labelling (ASL) perfusion imaging MRI data.
 
-[CV](./TK_cv.md)
+[Personal CV](./TK_cv.md)
 
 ## Software repos
 
