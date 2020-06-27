@@ -3,7 +3,6 @@
 tomfrankkirk@gmail.com &nbsp;  ++44 798 467 1563 
 
 ## Education
---- 
 
 * 2017 -: DPhil Biomedical Engineering, Madgalen College, Oxford University
 <ul> <li style="list-style-type: none;">
@@ -21,7 +20,6 @@ First class honours, winner of Millard scholarship and Knox prize for best degre
 </li> </ul>
 
 ## Employment 
---- 
 
 * March - June 2020: System integration lead, OxVent, Oxford  
     * Lead systems engineer for Oxford University's emergency Covid-19 ventilator, of which the UK Government ordered 6,000 units.
@@ -38,19 +36,18 @@ First class honours, winner of Millard scholarship and Knox prize for best degre
     * Responsibilities included parent evenings, writing reports, organising school trips and running extra-curricular and sports activities
 
 ## Skills & languages 
---- 
+
 * Native French speaker, dual French and British citizen.
 * Experienced in Python, Ruby (w/ Rails), MATLAB. Proficient in Swift, C/C++, HTML and CSS. Experimenting with Haskell / F#. Personal github: https://github.com/tomfrankkirk
 * Developed a Ruby on Rails web app to be used for teaching medical students at the University of Oxford (page 9, https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)
 
 ## Awards 
---- 
+
 * Alumnus of the Arkwright national engineering scholarships program.
 * Winner, 2011 Shalheveth Freier international physics tournament in Tel Aviv.
 * Winner, 2014 Sladen essay prize: “Should governments pursue growth or happiness?”
 
 ## Hobbies & interests
---- 
 
 * Rower for 10 years, captain of boat club 2014/15 in charge of recruiting coaches, organising international training camps and purchasing equipment (budget of £25k).
 * Keen cyclist, have organised six international cycling group tours for 10+ people.  Cycled part of the US Pacific coast in 2019. 
