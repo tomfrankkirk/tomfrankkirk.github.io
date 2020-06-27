@@ -5,19 +5,16 @@ tomfrankkirk@gmail.com &nbsp;  ++44 798 467 1563
 ## Education
 
 * 2017 -: DPhil Biomedical Engineering, Madgalen College, Oxford University
-<ul> <li style="list-style-type: none;">
-Holder of the Bellhouse scholarship, researching novel analysis methods for perfusion imaging data to improve diagnosis of Alzheimer's disease and dementia. 1 publication, 1 patent and 3 software modules released. Separately, was involved in producing an emergency ventilator for Covid-19 pandemic (see employment below). 
-</li> </ul>
+    * Holder of the Bellhouse scholarship, researching novel analysis methods for perfusion imaging data to improve diagnosis of Alzheimer's disease and dementia. 
+    * 1 publication, 1 patent and 3 software modules released. 
+    * Separately, was involved in producing an emergency ventilator for Covid-19 pandemic (see employment below). 
 
 * 2013 - 2017: MEng Engineering, Economics & Management 
-<ul> <li style="list-style-type: none;">
-First class honours, winner of Millard scholarship and Knox prize for best degree result. Specialised in biomedical and information topics. 
-</li> </ul>
+    * First class honours, winner of Millard scholarship and Knox prize for best degree result. 
+    * Specialisms in biomedical and information engineering, as well as macroeconomics and game theory. 
 
 * 2007 - 2012: Dulwich College, London 
-<ul> <li style="list-style-type: none;">
-3 A at A2 level, 7 A* at AS level, 11 A* at GCSE, attended on scholarship. 
-</li> </ul>
+    * 3 A at A2 level, 7 A* at AS level, 11 A* at GCSE, attended on scholarship. 
 
 ## Employment 
 
