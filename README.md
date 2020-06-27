@@ -8,16 +8,16 @@ Currently research new analysis techniques for arterial spin labelling (ASL) per
 ## Software repos
 
 ### Toblerone: surface-based analysis tools 
-https://github.com/tomfrankkirk/toblerone
+[Repo](https://github.com/tomfrankkirk/toblerone) [Docs](https://toblerone.readthedocs.io/en/latest/)
 
 ### Regtricks: tools for manipulating, combining and applying image transformations
-https://github.com/tomfrankkirk/regtricks
+[Repo](https://github.com/tomfrankkirk/regtricks) [Docs](https://regtricks.readthedocs.io/en/latest/)
 
 ### HCP-ASL: ASL processing pipeline for the Human Connectome Project 
-https://github.com/ibme-qubic/hcp-asl
+[Repo](https://github.com/ibme-qubic/hcp-asl)
 
 ### Oxford_asl: ASL processing pipeline using FSL 
-https://github.com/ibme-qubic/oxasl
+[Repo](https://github.com/ibme-qubic/oxasl)
 
 
 ## Publications 

@@ -9,7 +9,7 @@ tomfrankkirk@gmail.com &nbsp;  ++44 798 467 1563
     * 1 publication, 1 patent and 3 software modules released. 
     * Separately, was involved in producing an emergency ventilator for Covid-19 pandemic (see employment below). 
 
-* 2013 - 2017: MEng Engineering, Economics & Management 
+* 2013 - 2017: MEng Engineering, Economics & Management, Trinity College, Oxford University
     * First class honours, winner of Millard scholarship and Knox prize for best degree result. 
     * Specialisms in biomedical and information engineering, as well as macroeconomics and game theory. 
 
@@ -18,11 +18,10 @@ tomfrankkirk@gmail.com &nbsp;  ++44 798 467 1563
 
 ## Employment 
 
-* March - June 2020: System integration lead, OxVent, Oxford  
-    * Lead systems engineer for Oxford University's emergency Covid-19 ventilator, of which the UK Government ordered 6,000 units.
-    * Partnered with Smith + Nephew UK for manufacturing, worked closely with operations time to optimise manufacturing process down to 45 seconds per unit. 
-    * Also responsible for all data analysis for design verification testing and authored all technical documents submitted to UK's healthcare regulator (MHRA). 
-
+* March - June 2020: Lead system integration engineer, OxVent, Oxford  
+    * Key team member in developing Oxford University's emergency Covid-19 ventilator, of which the UK Government ordered 6,000 units.
+    * Partnered with Smith + Nephew UK for manufacturing, worked closely with their operations team to optimise manufacturing process down to 45 seconds per unit. 
+    * Also responsible for design verification test data analysis and authored all technical documents submitted to UK's healthcare regulator (MHRA). 
 
 * 2017 - 2019: Bar manager, Magdalen MCR bar, Oxford 
     * Responsible for staffing and stock levels of student bar, annual revenue ~£20k. 
