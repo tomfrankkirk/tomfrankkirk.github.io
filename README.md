@@ -7,7 +7,7 @@ Currently research new analysis techniques for arterial spin labelling (ASL) per
 
 ## Software repos
 
-### Toblerone: surface-based analysis tools 
+### Toblerone: surface-based analysis tools for neuroimaging
 [Repo](https://github.com/tomfrankkirk/toblerone) [Docs](https://toblerone.readthedocs.io/en/latest/)
 
 ### Regtricks: tools for manipulating, combining and applying image transformations

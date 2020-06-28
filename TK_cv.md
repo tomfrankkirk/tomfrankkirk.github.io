@@ -1,6 +1,6 @@
 # Thomas Kirk MEng
 
-tomfrankkirk@gmail.com &nbsp;  ++44 798 467 1563 
+tomfrankkirk@gmail.com &nbsp;  +44 798 467 1563 
 
 ## Education
 
@@ -19,12 +19,17 @@ tomfrankkirk@gmail.com &nbsp;  ++44 798 467 1563
 ## Employment 
 
 * March - June 2020: Lead system integration engineer, OxVent, Oxford  
-    * Key team member in developing Oxford University's emergency Covid-19 ventilator, of which the UK Government ordered 6,000 units.
-    * Partnered with Smith + Nephew UK for manufacturing, worked closely with their operations team to optimise manufacturing process down to 45 seconds per unit. 
-    * Also responsible for design verification test data analysis and authored all technical documents submitted to UK's healthcare regulator (MHRA). 
+    * Oversaw system integration for Oxford University's emergency Covid-19 ventilator, of which the UK Government ordered 6,000 units.
+    * Also responsible for design verification data analysis, system calibration, and authoring multiple technical documents submitted to UK's healthcare regulator (MHRA). 
+    * Partnered with Smith + Nephew UK for manufacturing, worked closely with their operations team to reduce manufacturing time down to 45 seconds per unit. 
 
 * 2017 - 2019: Bar manager, Magdalen MCR bar, Oxford 
     * Responsible for staffing and stock levels of student bar, annual revenue ~£20k. 
+
+* July 2014-19: Engineering tutor, multiple organisations 
+    * Planned and delivered a maths and physics course to introduce students to university-level engineering
+    * Devised, budgeted and led practical projects to build a potato cannon and portable speakers
+    * Ran sports activities and sightseeing trips for students
 
 * 2012 - 2013: Maths teacher, Isle of Sheppey Academy, Kent 
     * Recruited on a Teach First style program to a school in special measures to teach GCSE maths 
