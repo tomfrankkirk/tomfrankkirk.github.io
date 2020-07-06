@@ -22,6 +22,7 @@ tomfrankkirk@gmail.com &nbsp;  +44 798 467 1563
     * Oversaw system integration for Oxford University's emergency Covid-19 ventilator, of which the UK Government ordered 6,000 units.
     * Also responsible for design verification data analysis, system calibration, and authoring multiple technical documents submitted to UK's healthcare regulator (MHRA). 
     * Partnered with Smith + Nephew UK for manufacturing, worked closely with their operations team to reduce manufacturing time down to 45 seconds per unit. 
+    * [Recording of a seminar](https://www.alumniweb.ox.ac.uk/oao/page.redir?target=https%3a%2f%2fus02web.zoom.us%2frec%2fshare%2fuZ0lLe3RymdLR43m0Ej9a4p7HY3uX6a813AX__EJnkxfn95jJuGwze7ASZ0-tVxz%3fstartTime%3d1593068439000&srcid=374005&srctid=1&erid=46dead3c-7c50-4bf9-af43-9ac4786e399e&efndnum=70728891&trid=46dead3c-7c50-4bf9-af43-9ac4786e399e) about this project 
 
 * 2017 - 2019: Bar manager, Magdalen MCR bar, Oxford 
     * Responsible for staffing and stock levels of student bar, annual revenue ~£20k. 
