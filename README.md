@@ -1,7 +1,7 @@
 # Tom Kirk 
 
 PhD student at the Institute of Biomedical Engineering / Wellcome Centre for Integrative Neuroimaging, Oxford University. 
-Currently research new analysis techniques for arterial spin labelling (ASL) perfusion imaging MRI data.
+Currently researching new analysis techniques for arterial spin labelling (ASL) perfusion imaging MRI data.
 
 [Personal CV](./TK_cv.md)
 
