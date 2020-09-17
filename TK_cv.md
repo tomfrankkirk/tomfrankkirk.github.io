@@ -27,30 +27,30 @@ tomfrankkirk@gmail.com &nbsp;  +44 798 467 1563
 * 2017 - 2019: Bar manager, Magdalen MCR bar, Oxford 
     * Responsible for staffing and stock levels of student bar, annual revenue ~£20k. 
 
-* July 2014-19: Engineering tutor, multiple organisations 
-    * Planned and delivered a maths and physics course to introduce students to university-level engineering
+* July 2014-19: Engineering tutor, Oxford Summer College / Oxford Royale Academy / Varsity Education
+    * Planned and delivered maths and physics courses to introduce students to university-level engineering
     * Devised, budgeted and led practical projects to build a potato cannon and portable speakers
     * Ran sports activities and sightseeing trips for students
 
 * 2012 - 2013: Maths teacher, Isle of Sheppey Academy, Kent 
-    * Recruited on a Teach First style program to a school in special measures to teach GCSE maths 
+    * Recruited on Teach First style program to a school in special measures to teach GCSE maths 
     * Lobbied the board of governors to let me teach gifted and talented set alongside my other classes, doubled number of A* grades
     * Responsibilities included parent evenings, writing reports, organising school trips and running extra-curricular and sports activities
 
 ## Skills & languages 
 
 * Native French speaker, dual French and British citizen.
-* Experienced in Python, Ruby (w/ Rails), MATLAB. Proficient in Swift, C/C++, HTML and CSS. Experimenting with Haskell / F#. Personal github: https://github.com/tomfrankkirk
+* Experienced in Python, Ruby (w/ Rails), MATLAB. Proficient in Swift, C/C++ and HTML. Experimenting with Haskell / F#. Personal github: https://github.com/tomfrankkirk
 * Developed a Ruby on Rails web app to be used for teaching medical students at the University of Oxford (page 9, https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)
 
 ## Awards 
 
-* Alumnus of the Arkwright national engineering scholarships program.
+* Alumnus (2011) of the Arkwright national engineering scholarships program.
 * Winner, 2011 Shalheveth Freier international physics tournament in Tel Aviv.
 * Winner, 2014 Sladen essay prize: “Should governments pursue growth or happiness?”
 
 ## Hobbies & interests
 
-* Rower for 10 years, captain of boat club 2014/15 in charge of recruiting coaches, organising international training camps and purchasing equipment (budget of £25k).
+* Rower for 10 years, club captain 2014/15 in charge of recruiting coaches, organising international training camps and purchasing equipment (budget of £25k).
 * Keen cyclist, have organised six international cycling group tours for 10+ people.  Cycled part of the US Pacific coast in 2019. 
 * Heavily involved in access and outreach efforts at Oxford, have volunteered on many open days and residential visits for disadvantaged students. Appointed team leader for undergraduate admissions in 2015, this role involved organising a team of 20 volunteers to oversee 1000 interviews for 400 candidates. 
