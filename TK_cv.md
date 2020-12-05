@@ -22,7 +22,7 @@ tomfrankkirk@gmail.com &nbsp;  +44 798 467 1563
     * Oversaw system integration for Oxford University's emergency Covid-19 ventilator, of which the UK Government ordered 6,000 units.
     * Also responsible for design verification data analysis, system calibration, and authoring multiple technical documents submitted to UK's healthcare regulator (MHRA). 
     * Partnered with Smith + Nephew UK for manufacturing, worked closely with their operations team to reduce manufacturing time down to 45 seconds per unit. 
-    * [Recording of a seminar](https://www.alumniweb.ox.ac.uk/oao/page.redir?target=https%3a%2f%2fus02web.zoom.us%2frec%2fshare%2fuZ0lLe3RymdLR43m0Ej9a4p7HY3uX6a813AX__EJnkxfn95jJuGwze7ASZ0-tVxz%3fstartTime%3d1593068439000&srcid=374005&srctid=1&erid=46dead3c-7c50-4bf9-af43-9ac4786e399e&efndnum=70728891&trid=46dead3c-7c50-4bf9-af43-9ac4786e399e) about this project 
+    * Project was awarded the *Global Challenge* [innovation award](#http://www.ibme.ox.ac.uk/news-events/news/low-cost-ventilator-wins-at-e-t-innovation-awards) from the Institute of Engineering and Technology. 
 
 * 2017 - 2019: Bar manager, Magdalen MCR bar, Oxford 
     * Responsible for staffing and stock levels of student bar, annual revenue ~£20k. 
@@ -41,13 +41,14 @@ tomfrankkirk@gmail.com &nbsp;  +44 798 467 1563
 
 * Native French speaker, dual French and British citizen.
 * Experienced in Python, Ruby (w/ Rails), MATLAB. Proficient in Swift, C/C++, HTML and CSS. Experimenting with Haskell / F#. Personal github: https://github.com/tomfrankkirk
-* Developed a Ruby on Rails web app to be used for teaching medical students at the University of Oxford (page 9, https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)
+* Developed a Ruby on Rails web app to be used for teaching medical students at the University of Oxford: [page 9 in PDF](#https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)
 
 ## Awards 
 
-* Alumnus of the Arkwright national engineering scholarships program.
-* Winner, 2011 Shalheveth Freier international physics tournament in Tel Aviv.
+* Winner, 2020 *Global Challenge* innovation award from the Institute of Engineering and Technology. 
 * Winner, 2014 Sladen essay prize: “Should governments pursue growth or happiness?”
+* Winner, 2011 Shalheveth Freier international physics tournament in Tel Aviv.
+* Alumnus of the Arkwright national engineering scholarships program.
 
 ## Hobbies & interests
 
