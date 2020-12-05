@@ -22,18 +22,18 @@ tomfrankkirk@gmail.com &nbsp;  +44 798 467 1563
     * Oversaw system integration for Oxford University's emergency Covid-19 ventilator, of which the UK Government ordered 6,000 units.
     * Also responsible for design verification data analysis, system calibration, and authoring multiple technical documents submitted to UK's healthcare regulator (MHRA). 
     * Partnered with Smith + Nephew UK for manufacturing, worked closely with their operations team to reduce manufacturing time down to 45 seconds per unit. 
-    * Project was awarded the *Global Challenge* [innovation award](#http://www.ibme.ox.ac.uk/news-events/news/low-cost-ventilator-wins-at-e-t-innovation-awards) from the Institute of Engineering and Technology. 
+    * Project was awarded the 2020 *Global Challenge* [innovation award](#http://www.ibme.ox.ac.uk/news-events/news/low-cost-ventilator-wins-at-e-t-innovation-awards) from the Institute of Engineering and Technology. 
 
 * 2017 - 2019: Bar manager, Magdalen MCR bar, Oxford 
     * Responsible for staffing and stock levels of student bar, annual revenue ~£20k. 
 
-* July 2014-19: Engineering tutor, multiple organisations 
-    * Planned and delivered a maths and physics course to introduce students to university-level engineering
+* July 2014-19: Engineering tutor, Oxford Summer College / Oxford Royale Academy / Varsity Education
+    * Planned and delivered maths and physics courses to introduce students to university-level engineering
     * Devised, budgeted and led practical projects to build a potato cannon and portable speakers
     * Ran sports activities and sightseeing trips for students
 
 * 2012 - 2013: Maths teacher, Isle of Sheppey Academy, Kent 
-    * Recruited on a Teach First style program to a school in special measures to teach GCSE maths 
+    * Recruited on Teach First style program to a school in special measures to teach GCSE maths 
     * Lobbied the board of governors to let me teach gifted and talented set alongside my other classes, doubled number of A* grades
     * Responsibilities included parent evenings, writing reports, organising school trips and running extra-curricular and sports activities
 
@@ -52,6 +52,6 @@ tomfrankkirk@gmail.com &nbsp;  +44 798 467 1563
 
 ## Hobbies & interests
 
-* Rower for 10 years, captain of boat club 2014/15 in charge of recruiting coaches, organising international training camps and purchasing equipment (budget of £25k).
+* Rower for 10 years, club captain 2014/15 in charge of recruiting coaches, organising international training camps and purchasing equipment (budget of £25k).
 * Keen cyclist, have organised six international cycling group tours for 10+ people.  Cycled part of the US Pacific coast in 2019. 
 * Heavily involved in access and outreach efforts at Oxford, have volunteered on many open days and residential visits for disadvantaged students. Appointed team leader for undergraduate admissions in 2015, this role involved organising a team of 20 volunteers to oversee 1000 interviews for 400 candidates. 
