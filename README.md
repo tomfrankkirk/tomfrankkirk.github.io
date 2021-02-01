@@ -1,16 +1,18 @@
 # Tom Kirk 
 
-PhD student at the Institute of Biomedical Engineering / Wellcome Centre for Integrative Neuroimaging, Oxford University. 
+Bellhouse Scholar in biomedical engineering at the Institute of Biomedical Engineering / Wellcome Centre for Integrative Neuroimaging, Oxford University. 
 Currently researching new analysis techniques for arterial spin labelling (ASL) perfusion imaging MRI data.
 
-## [Personal CV](./TK_cv.md)
+[Personal CV](./TK_cv.md)
 
-## Software repos
+[Linked in](https://www.linkedin.com/in/tom-kirk-a72a55130/)
+
+## Software
 
 ### Toblerone: surface-based analysis tools for neuroimaging
 [Repo](https://github.com/tomfrankkirk/toblerone) [Docs](https://toblerone.readthedocs.io/en/latest/)
 
-### Regtricks: tools for manipulating, combining and applying image transformations
+### Regtricks: tools for combining and applying image transformations
 [Repo](https://github.com/tomfrankkirk/regtricks) [Docs](https://regtricks.readthedocs.io/en/latest/)
 
 ### HCP-ASL: ASL processing pipeline for the Human Connectome Project 

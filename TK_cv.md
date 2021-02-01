@@ -1,6 +1,6 @@
 # Thomas Kirk MEng
 
-tomfrankkirk@gmail.com &nbsp;  +44 798 467 1563 
+tomfrankkirk@gmail.com
 
 ## Education
 
@@ -40,7 +40,7 @@ tomfrankkirk@gmail.com &nbsp;  +44 798 467 1563
 ## Skills & languages 
 
 * Native French speaker, dual French and British citizen.
-* Experienced in Python, Ruby (w/ Rails), MATLAB. Proficient in Swift, C/C++, HTML and CSS. Experimenting with Haskell / F#. Personal github: https://github.com/tomfrankkirk
+* Experienced in Python, Ruby (w/ Rails), MATLAB. Proficient in Swift, C/C++, HTML and CSS. Personal github: https://github.com/tomfrankkirk
 * Developed a Ruby on Rails web app to be used for teaching medical students at the University of Oxford: [page 9 in PDF](#https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)
 
 ## Awards 
