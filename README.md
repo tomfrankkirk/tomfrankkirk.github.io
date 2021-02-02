@@ -5,7 +5,7 @@ Currently researching new analysis techniques for arterial spin labelling (ASL) 
 
 [Personal CV](./TK_cv.md)
 
-[Linked in](https://www.linkedin.com/in/tom-kirk-a72a55130/)
+[Linked in](https://www.linkedin.com/in/tomfrankkirk/)
 
 ## Software
 
