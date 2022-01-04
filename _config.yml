@@ -28,7 +28,6 @@ github_username:  tomfrankkirk
 linkedin_username: tomfrankkirk 
 
 # Build settings
-theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
