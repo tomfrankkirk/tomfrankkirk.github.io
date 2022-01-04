@@ -21,7 +21,7 @@ tomfrankkirk@gmail.com
     - Responsibile for overall system integration and calibration
     - Authored multiple technical documents for the UK healthcare regulator (MHRA)
 
-* 2012 - 2013: MEng, Perfusion quanitifcation in the clinic  
+* 2016 - 2017: MEng, Perfusion quanitifcation in the clinic  
 Supervised by Professor Michael Chappell 
     - Developed a clinical facing app using the MeVisLab platform to simplify and facilitate the use of arterial spin labelling  for perfusion measurement 
 
