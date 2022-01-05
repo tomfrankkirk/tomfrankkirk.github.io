@@ -18,10 +18,10 @@ tomfrankkirk@gmail.com
 
 * 2020: Design and development of an emergency Covid-19 ventilator (OxVent)
     - Joint effort between the University of Oxford and Smith & Nephew to develop an emergency device; the UK government ordered 6000 units 
-    - Responsibile for overall system integration and calibration
+    - Responsible for overall system integration and calibration
     - Authored multiple technical documents for the UK healthcare regulator (MHRA)
 
-* 2016 - 2017: MEng, Perfusion quanitifcation in the clinic  
+* 2016 - 2017: MEng, Perfusion quantification in the clinic  
 Supervised by Professor Michael Chappell 
     - Developed a clinical facing app using the MeVisLab platform to simplify and facilitate the use of arterial spin labelling  for perfusion measurement 
 
@@ -49,7 +49,7 @@ Supervised by Professor Michael Chappell
 
 - 2021 P. Clement, ..., **T. Kirk**, ..., H. Mutsaerts, *ASL-BIDS, the brain imaging data structure extension for arterial spin labeling*, PsyArXiv, [doi](https://doi.org/10.31234/osf.io/e87y3) 
 
-- 2019 **T. Kirk**, T. Coalson, M. Craig and M. Chappell, *Toblerone: surface-based partial volume estimation*, IEEE Transaction on Medical Imaging, [doi](https://doi.org/10.1109/TMI.2019.2951080)
+- 2019 **T. Kirk**, T. Coalson, M. Craig and M. Chappell, *Toblerone: surface-based partial volume estimation*, IEEE Transactions on Medical Imaging, [doi](https://doi.org/10.1109/TMI.2019.2951080)
 
 ### Conference abstracts
 

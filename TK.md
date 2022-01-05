@@ -31,7 +31,7 @@ tomfrankkirk@gmail.com
 
 * March - June 2020: Lead system integration engineer & chief morale officer, OxVent, Oxford  
     * Oversaw system integration for Oxford University's emergency Covid-19 ventilator, of which the UK Government ordered 6,000 units.
-    * Also responsible for design verification data analysis, system calibration, and authoring multiple technical documents submitted for MHRA and FDA authorisations. 
+    * Also responsible for design verification data analysis, system calibration, and authoring multiple technical documents submitted for MHRA and FDA authorisation. 
     * Partnered with Smith + Nephew UK for manufacturing, worked closely with their operations team to reduce manufacturing time down to 45 seconds per unit. 
     * Project was awarded the 2020 *Global Challenge* [innovation award](#http://www.ibme.ox.ac.uk/news-events/news/low-cost-ventilator-wins-at-e-t-innovation-awards) from the Institute of Engineering and Technology. 
 
