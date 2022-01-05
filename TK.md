@@ -54,7 +54,7 @@ tomfrankkirk@gmail.com
 ### Skills, languages and awards 
 
 * Native French speaker, dual French and British citizen.
-* Experienced in Python (Django, Pandas, Tensorflow), Ruby (Rails), MATLAB. Intermediate level Swift, C/C++, HTML and CSS. Personal github: https://github.com/tomfrankkirk
+* Experienced in Python (Django, Pandas, Tensorflow), Ruby (Rails), MATLAB. Intermediate level Swift and C/C++. Personal [github](https://github.com/tomfrankkirk)
 * Developed a Rails web app to be used for teaching medical students at the University of Oxford: [page 9 in PDF](#https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)
 * Winner, 2020 Institute of Engineering and Technology *Global Challenge* innovation award for work on Covid-19. 
 * Winner, 2014 Sladen essay prize: “Should governments pursue growth or happiness?”
