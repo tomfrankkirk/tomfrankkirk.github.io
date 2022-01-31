@@ -51,20 +51,13 @@ permalink: /cv/
 --- 
 * Experienced in Python (Django, Pandas, Tensorflow, Cython), Ruby (Rails), MATLAB and Unix environments. 
 * Intermediate level Bash, Swift and C/C++. 
-* Developed a Rails app for teaching anatomy to medical students at the University of Oxford, awarded 2016 OxTALENT prize from the University of Oxford: [see page 9 in PDF](https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)
 
 ### Skills, awards and interests 
 --- 
 * Native French speaker, dual French and British citizen.
 * Winner, 2020 Institute of Engineering and Technology *Global Challenge* innovation award for work on Covid-19. 
+* Winner, 2016 OxTALENT award for prototype anatomy teaching app for medical students at the University of Oxford: [see page 9 in PDF](https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)
 * Winner, 2014 Sladen essay prize: “Should governments pursue growth or happiness?”
 * Alumnus, 2012 Arkwright national engineering scholarships. 
 * Winner, 2011 Shalheveth Freier international physics tournament in Tel Aviv.
 * Keen rower and cyclist; cycled a two month solo Tour de France in 2021. 
-
-<!--## Hobbies & interests
-
-* Rower for 10 years, club captain 2014/15 in charge of recruiting coaches, organising international training camps and purchasing equipment (budget of £25k).
-* Keen cyclist, have organised six international cycling group tours for 10+ people.  Cycled a Tour de France in 2021. 
-* Heavily involved in access and outreach efforts at Oxford, have volunteered on many open days and residential visits for disadvantaged students. Appointed team leader for undergraduate admissions in 2015, this role involved organising a team of 20 volunteers to oversee 1000 interviews for 400 candidates. 
--->
