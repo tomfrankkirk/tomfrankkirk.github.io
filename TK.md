@@ -31,6 +31,10 @@ permalink: /cv/
 
 ### Employment 
 --- 
+* 2022 onwards: **Data and strategy, Neucruit, London** 
+    * Working as a data scientist to improve patient recruitment for clinical trials 
+    * Assisting strategy discussions and planning as the company scales aggressively 
+
 * 2021 onwards: **Co-founder and technical lead, [vaximap.org](http://vaximap.org)**
     * Solo development effort for a free-to-use service to optimise Covid-19 vaccination for housebound patients 
     * To date, has reached over 30% of UK housebound patients and been adopted by the UK Army 
