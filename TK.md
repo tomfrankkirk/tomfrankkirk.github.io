@@ -19,7 +19,7 @@ permalink: /cv/
 
 * 2017 - 2021: **DPhil Biomedical Engineering, Madgalen College, Oxford University**
     * Holder of the Bellhouse scholarship, researching novel analysis methods for perfusion imaging data to improve diagnosis of Alzheimer's disease and dementia. 
-    * 3 publications, 1 patent and 5 software modules released. 
+    * 5 publications, 1 patent and 5 software modules released. 
     * Separately, was involved in two Covid-19 response projects (see employment below). 
 
 * 2013 - 2017: **MEng Engineering, Economics & Management, Trinity College, Oxford University**

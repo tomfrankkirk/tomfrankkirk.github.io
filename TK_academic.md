@@ -27,6 +27,7 @@ permalink: /academic_cv/
     - Joint effort between the University of Oxford and Smith & Nephew to develop an emergency device; the UK government ordered 6000 units 
     - Responsible for overall system integration and calibration
     - Authored multiple technical documents for the UK healthcare regulator (MHRA)
+    - An overview of this project has been [published](https://doi.org/10.1016/j.ebiom.2022.103868) in the Lancet eBioMedicine
 
 * 2016 - 2017: **MEng, Perfusion quantification in the clinic**  
 *Supervised by Professor Michael Chappell*
@@ -55,6 +56,8 @@ permalink: /academic_cv/
 
 ### Publications 
 ---
+
+- 2022 R. Beale, ..., F. Formenti & **T. Kirk**, *OxVent: Design and evaluation of a rapidly-manufactured Covid-19 ventilator*, The Lancet eBioMedicine, [doi](https://doi.org/10.1016/j.ebiom.2022.103868)
 
 - 2021 **T. Kirk**, M. Craig and M. Chappell, *Unified surface and volumetric projection of physiological imaging data*, bioRxiv, [doi](https://doi.org/10.1101/2022.01.28.477071)
 
