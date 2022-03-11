@@ -30,6 +30,7 @@ linkedin_username: tomfrankkirk
 # Build settings
 plugins:
   - jekyll-feed
+remote_theme: jeffreytse/jekyll-theme-yat
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -50,3 +51,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-cayman
