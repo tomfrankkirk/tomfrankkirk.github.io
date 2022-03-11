@@ -12,7 +12,7 @@ permalink: /academic_cv/
 
 ## **Thomas Kirk** MEng DPhil
 
-[tomfrankkirk@gmail.com](tomfrankkirk@gmail.com)
+[tomfrankkirk@gmail.com](tomfrankkirk@gmail.com) \| [tomfrankkirk.github.io](https://tomfrankkirk.github.io) \| [GitHub](https://github.com/tomfrankkirk)
 
 ### Research Experience 
 --- 
