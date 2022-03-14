@@ -1,5 +1,5 @@
 ---
-layout: nohead
+layout: cv
 title: General CV
 permalink: /cv/
 ---
@@ -10,12 +10,12 @@ permalink: /cv/
     hr { margin-bottom: 1em }
 </style>
 
-## **Thomas Kirk** MEng DPhil
+# **Thomas Kirk** MEng DPhil
 
 [tomfrankkirk@gmail.com](tomfrankkirk@gmail.com) \| [tomfrankkirk.github.io](https://tomfrankkirk.github.io) \| [GitHub](https://github.com/tomfrankkirk)
 
-### Education 
---- 
+## Education 
+---- 
 
 * 2017 - 2021: **DPhil Biomedical Engineering, Madgalen College, Oxford University**
     * Holder of the Bellhouse scholarship, researching novel analysis methods for perfusion imaging data to improve diagnosis of Alzheimer's disease and dementia. 
@@ -29,8 +29,8 @@ permalink: /cv/
 * 2007 - 2012: **Dulwich College, London**
     * 3 A at A2 level, 7 A* at AS level, 11 A* at GCSE, attended on scholarship. 
 
-### Employment 
---- 
+## Employment 
+----
 
 * 2021 onwards: **Co-founder and technical lead, [vaximap.org](http://vaximap.org)**
     * Solo development effort for a free-to-use service to optimise Covid-19 vaccination for housebound patients 
@@ -48,13 +48,16 @@ permalink: /cv/
     * Lobbied the board of governors to let me teach the gifted and talented set alongside my other classes, doubled number of A* grades
     * Responsibilities included parent evenings, writing reports, organising school trips and running extra-curricular and sports activities
 
-### Programming skills
---- 
+## Programming skills
+----
+
 * Experienced in Python (Django, Pandas, Tensorflow, Cython), Ruby (Rails), MATLAB and Unix environments. 
+* Comfortable with web deployment on Heroku, some experience with AWS Lambda, SAM and ElasticSearch. 
 * Intermediate level Bash, Swift and C/C++. 
 
-### Skills, awards and interests 
---- 
+## Skills, awards and interests 
+-----
+
 * Native French speaker, dual French and British citizen.
 * Winner, 2020 Institute of Engineering and Technology *Global Challenge* innovation award for work on Covid-19. 
 * Winner, 2016 OxTALENT award for prototype anatomy teaching app for medical students at the University of Oxford: [see page 9 in PDF](https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)

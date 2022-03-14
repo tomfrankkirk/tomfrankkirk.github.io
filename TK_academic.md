@@ -1,5 +1,5 @@
 ---
-layout: nohead
+layout: cv
 title: Academic CV
 permalink: /academic_cv/
 ---
@@ -10,18 +10,18 @@ permalink: /academic_cv/
     hr { margin-bottom: 1em }
 </style>
 
-## **Thomas Kirk** MEng DPhil
+# **Thomas Kirk** MEng DPhil 
 
 [tomfrankkirk@gmail.com](tomfrankkirk@gmail.com) \| [tomfrankkirk.github.io](https://tomfrankkirk.github.io) \| [GitHub](https://github.com/tomfrankkirk)
 
-### Research Experience 
---- 
+## Research Experience 
+----
 
 * 2017 - 2021: **DPhil, Anatomically informed Bayesian inference for physiological imaging**  
 *Supervised by Professor Michael Chappell, funded by the Bellhouse Scholarship for Biomedical Engineering at the University of Oxford* 
     - Developed a suite of computational tools for surface analysis of neuroimaging data
     - Developed a framework for combined volumetric and surface-based Bayesian inference of arterial spin labelling data 
-    - Work led to one publication, one patent and numerous conference posters; further publications are in preparation     
+    - Work led to two publications, one patent and numerous conference posters; further publications are in preparation     
 
 * 2020: **Design and development of an emergency Covid-19 ventilator (OxVent)**
     - Joint effort between the University of Oxford and Smith & Nephew to develop an emergency device; the UK government ordered 6000 units 
@@ -33,14 +33,14 @@ permalink: /academic_cv/
 *Supervised by Professor Michael Chappell*
     - Developed a clinical facing app using the MeVisLab platform to simplify and facilitate the use of arterial spin labelling  for perfusion measurement 
 
-### Education 
---- 
+## Education 
+---- 
 
 * 2017 - 2021: DPhil Biomedical Engineering, University of Oxford 
 * 2013 - 2017: MEng Engineering, Economics and Management, University of Oxford (First class)
 
-### Awards and funding
---- 
+## Awards and funding
+---- 
 
 - 2020: Global Challenge innovation award from the Institute of Engineering and Technology for development of an emergency Covid-19 ventilator (OxVent)
 - 2020: OHBM trainee stipend for conference attendance 
@@ -49,13 +49,13 @@ permalink: /academic_cv/
 - 2017: Bellhouse Scholarship in Biomedical Engineering, covering all fees and living costs at the University of Oxford 
 - 2012: Arkwright scholarship for engineering 
 
-### Patents 
---- 
+## Patents 
+---- 
 
 - **T. Kirk** and M. Chappell, *Partial volume estimation from surface reconstructions*, filed April 2020, pending with application number 63013712. 
 
-### Publications 
----
+## Publications 
+----
 
 - 2022 R. Beale, ..., F. Formenti & **T. Kirk**, *OxVent: Design and evaluation of a rapidly-manufactured Covid-19 ventilator*, The Lancet eBioMedicine, [doi](https://doi.org/10.1016/j.ebiom.2022.103868)
 
@@ -67,8 +67,8 @@ permalink: /academic_cv/
 
 - 2019 **T. Kirk**, T. Coalson, M. Craig and M. Chappell, *Toblerone: surface-based partial volume estimation*, IEEE Transactions on Medical Imaging, [doi](https://doi.org/10.1109/TMI.2019.2951080)
 
-### Conference abstracts
---- 
+## Conference abstracts
+----
 
 - 2020 **T. Kirk**, F. Kennedy McConnell, D. Ivanov, S. Kashyap, M. Craig and M. Chappell, *Partial volume effect correction of arterial spin labelling data using surface segmentations*, ISMRM poster
 
