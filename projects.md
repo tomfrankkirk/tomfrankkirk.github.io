@@ -8,7 +8,7 @@ permalink: /projects/
 
 ## Tour de France
 Data and analysis from a tour of France I rode in 2021.  
-[Map](../tdf/tdf_map.html), [Code](https://github.com/tomfrankkirk/tour_de_france)
+[Map](../tdf_map/tdf_map.html), [Code](https://github.com/tomfrankkirk/tour_de_france)
 
 ## Vaximap
 A free-to-use website that provides route optimisation for delivery of vaccinations to housebound patients. This project was supported by Microsoft and adopted for use by the UK Army.  
