@@ -1,6 +1,28 @@
 ---
 layout: map_layout
 ---
+
+<style>
+    #map_banner {
+        position: absolute; 
+        background-color: white;
+        top: 0; 
+        left: 0; 
+        width: 100%;
+        z-index: 600 !important;
+    }
+    .wrapper { 
+        display: flex;
+        justify-content: space-between;
+    }
+</style>
+<header id="map_banner">
+    <div class="wrapper" style="margin-left:50px; margin-right:50px;">
+        <h4>Tour de France</h4>
+        <h5>4,900km distance | 68,700m ascent</h5>
+    </div>
+</header>
+
 <body>    
     
             <div class="folium-map" id="map_france" ></div>
