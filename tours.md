@@ -10,7 +10,7 @@ The following pages were generated using tourmapper, a Python wrapper for the Fo
 
 ## Tour de France 
 
-*September - October 2021* A two month solo tour around France to celebrate finishing my PhD (and being able to travel again after Covid). [Map](../tdf_map/tdf_map.html)
+*September - October 2021* A two month solo tour around France to celebrate finishing my PhD (and being able to travel again after Covid). [Map](../tour_maps/tdf.html)
 
 ## Scotland 
 
