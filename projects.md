@@ -14,7 +14,7 @@ Data and analysis from a tour of France I rode in 2021.
 A free-to-use website that provides route optimisation for delivery of vaccinations to housebound patients. This project was supported by Microsoft and adopted for use by the UK Army.  
 [Website](https://vaximap.org), [Paper](https://doi.org/10.1101/2021.12.20.21267978)
 
-## Oxvent
+## OxVent
 Design verification testing for an emergency Covid-19 ventilator produced in conjunction with Smith & Nephew. This data has since formed the basis of a publication and submissions to the MHRA and FDA.  
 [Website](https://oxvent.org), [Code](https://github.com/tomfrankkirk/oxvent_dvt), [Paper](https://doi.org/10.1016/j.ebiom.2022.103868)
 

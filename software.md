@@ -25,3 +25,7 @@ ASL processing pipeline using variational Bayesian inference, built on FSL.
 ## Oxasl_BIDS
 ASL-BIDS interface for the oxasl pipeline.  
 [Code](https://github.com/physimals/oxasl_bids)
+
+## Tourmapper 
+Build interactive maps of GPS activity data. Wraps the Leaflet / Folium libraries. 
+[Code](https://github.com/tomfrankkirk/tourmapper)

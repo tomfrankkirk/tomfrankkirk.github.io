@@ -6,7 +6,7 @@ permalink: /tours/
 
 # **Tours** 
 
-The following pages were generated using tourmapper, a Python wrapper for the Folium / Leaflet interactive mapping libraries. 
+The following pages were generated using [tourmapper](https://github.com/tomfrankkirk/tourmapper), a tool for building interactive maps from GPS activity data using the Leaflet / Folium libraries. 
 
 ## Tour de France 
 
