@@ -4,7 +4,7 @@ title: Tours
 permalink: /tours/
 ---
 
-# Tours 
+# **Tours** 
 
 The following pages were generated using tourmapper, a Python wrapper for the Folium / Leaflet interactive mapping libraries. 
 
