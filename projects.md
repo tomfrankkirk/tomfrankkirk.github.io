@@ -19,5 +19,5 @@ Design verification testing for an emergency Covid-19 ventilator produced in con
 [Website](https://oxvent.org), [Code](https://github.com/tomfrankkirk/oxvent_dvt), [Paper](https://doi.org/10.1016/j.ebiom.2022.103868)
 
 ## OperationAnatomy
-A prototype rails app for teaching undergraduate anatomy. Unfortunately this was never adopted for general use, though it did receive an innovation award frm the University of Oxford.  
+A prototype rails app for teaching undergraduate anatomy. Unfortunately this was never adopted for general use, though it did receive an innovation award from the University of Oxford.  
 [Code](https://github.com/tomfrankkirk/operation_anatomy), [Article](https://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/files/Fusion%2016.pdf)
