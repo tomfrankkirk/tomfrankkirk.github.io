@@ -57,13 +57,13 @@ permalink: /academic_cv/
 ## Publications 
 ----
 
+- 2022 P. Clement, ..., **T. Kirk**, ..., H. Mutsaerts, *ASL-BIDS, the brain imaging data structure extension for arterial spin labeling*,  Nature Scientific Data, [doi](https://doi.org/10.1038/s41597-022-01615-9)
+
 - 2022 R. Beale, ..., F. Formenti & **T. Kirk**, *OxVent: Design and evaluation of a rapidly-manufactured Covid-19 ventilator*, The Lancet eBioMedicine, [doi](https://doi.org/10.1016/j.ebiom.2022.103868)
 
 - 2021 **T. Kirk**, M. Craig and M. Chappell, *Unified surface and volumetric projection of physiological imaging data*, bioRxiv, [doi](https://doi.org/10.1101/2022.01.28.477071)
 
 - 2021 **T. Kirk**, A. Barker, A. Bodossian and R. Staruch, *VaxiMap: optimal delivery of vaccinations for housebound patients*, medRxiv, [doi](https://doi.org/10.1101/2021.12.20.21267978)
-
-- 2021 P. Clement, ..., **T. Kirk**, ..., H. Mutsaerts, *ASL-BIDS, the brain imaging data structure extension for arterial spin labeling*, PsyArXiv, [doi](https://doi.org/10.31234/osf.io/e87y3) 
 
 - 2019 **T. Kirk**, T. Coalson, M. Craig and M. Chappell, *Toblerone: surface-based partial volume estimation*, IEEE Transactions on Medical Imaging, [doi](https://doi.org/10.1109/TMI.2019.2951080)
 
