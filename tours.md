@@ -18,3 +18,6 @@ The following pages were generated using [tourmapper](https://github.com/tomfran
 
 ## Pacific Coast 
 *May 2019* First multi-day tour: 10 days along the Pacific coast in the US, from Eugene, OR to San Francisco, CA. It was wet, wet, wet. [Map](../tour_maps/pacific.html) 
+
+## Ontatio 
+*June 2023* Five-day warm up before ISMRM in Toronto (and it was warm due to a heatwave). Incredibly I managed to avoid the terrible forest fires further east entirely, though when I got back to Toronto the smoke caught up with me. [Map](../tour_maps/ontario.html)
