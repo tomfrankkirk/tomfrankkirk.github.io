@@ -8,7 +8,7 @@ permalink: /software/
 
 ## Toblerone
 Surface-based analysis tools for neuroimaging.  
-[Code](https://github.com/tomfrankkirk/toblerone), [Docs](https://toblerone.readthedocs.io/en/latest/), [Paper 1](https://doi.org/10.1109/TMI.2019.2951080), [Paper 2](https://doi.org/10.1101/2022.01.28.477071)
+[Code](https://github.com/tomfrankkirk/toblerone), [Docs](https://toblerone.readthedocs.io/en/latest/), [Paper 1](https://doi.org/10.1109/TMI.2019.2951080), [Paper 2](https://doi.org/10.1101/2022.01.28.477071) [Paper 3](https://doi.org/10.1007/978-3-031-43993-3_39)
 
 ## Regtricks
 Tools for combining and applying image transformations.  

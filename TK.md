@@ -6,7 +6,7 @@ permalink: /cv/
 
 <style>
     h1,h2,h3,h4,h5 { color: rgb(80, 80, 80) }
-    li { margin-bottom: 4pt }
+    li { margin-bottom: 3pt }
     hr { margin-bottom: 1em }
 </style>
 
@@ -34,7 +34,7 @@ permalink: /cv/
 ----
 
 * 2022 onwards: **Research Fellow in Physiological Imaging, University of Nottingham [current]** 
-    * Leading the formation of a joint Oxford/Nottingham medical imaging spin-out, currently on a BBSRC incubator
+    * Leading the formation of a joint medical imaging spin-out, have completed a 6 month BBSRC ICURe incubator
     * Responsibilities include identifying routes to market, establishing commercial partnerships, and appliying for seed funding from Innovate UK. 
 
 * 2021 onwards: **Co-founder and technical lead, [vaximap.org](http://vaximap.org) [current]**
@@ -51,8 +51,8 @@ permalink: /cv/
 ## Programming skills
 ----
 
-* Experienced in Python (Django, Pandas, Tensorflow, Cython), Ruby (Rails), MATLAB and Unix environments. 
-* Proficient with web deployment on Heroku, some experience with AWS Lambda, SAM and ElasticSearch. 
+* Experienced in Python (Django, Pandas, Tensorflow, Cython), Ruby (Rails), MATLAB and Unix. 
+* Proficient with web deployment on Heroku
 * Intermediate level Bash, Swift and C/C++. 
 
 ## Skills, awards and interests 
@@ -64,4 +64,3 @@ permalink: /cv/
 * Winner, 2014 Sladen essay prize: “Should governments pursue growth or happiness?”
 * Alumnus, 2012 Arkwright national engineering scholarships. 
 * Winner, 2011 Shalheveth Freier international physics tournament in Tel Aviv.
-* Keen rower and cyclist; cycled a two month solo Tour de France in 2021. 
