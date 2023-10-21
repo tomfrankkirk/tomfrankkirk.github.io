@@ -72,6 +72,8 @@ permalink: /academic_cv/
 ## Conference abstracts
 ----
 
+- 2023 **T. Kirk**, M. Craig and M. Chappell, *Unified surface and volumetric inference on functional imaging data*, MICCAI oral presentation 
+
 - 2020 **T. Kirk**, F. Kennedy McConnell, D. Ivanov, S. Kashyap, M. Craig and M. Chappell, *Partial volume effect correction of arterial spin labelling data using surface segmentations*, ISMRM poster
 
 - 2020 F. Kennedy McConnell, J. Toner, **T. Kirk**, M. Craig, A. Segerdahl, M. Harms and M. Chappell, *Estimation of cortical perfusion from arterial spin labelling data on the cortical surface*, ISMSM poster
