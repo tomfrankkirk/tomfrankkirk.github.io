@@ -57,6 +57,8 @@ permalink: /academic_cv/
 ## Publications 
 ----
 
+- 2023 M. Chappell, **T. Kirk**, ..., M. Woolrich, *BASIL: A toolbox for perfusion quantification using arterial spin labelling*, Imaging Neuroscience, [doi](https://doi.org/10.1162/imag_a_00041)
+
 - 2023 **T. Kirk**, M. Craig and M. Chappell, *Unified surface and volumetric inference on functional imaging data*, Medical Image Computing and Computer Assisted Intervention, [doi](https://doi.org/10.1007/978-3-031-43993-3_39)
 
 - 2022 **T. Kirk**, A. Barker, A. Bodossian and R. Staruch, *Vaximap: route optimisation for housebound vaccination*, Nature Digital Medicine, [doi](https://doi.org/10.1038/s41746-022-00726-2)
