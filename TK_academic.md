@@ -57,6 +57,8 @@ permalink: /academic_cv/
 ## Publications 
 ----
 
+- 2024 **T. Kirk**, ..., M. Chappell, *Arterial spin labelling perfusion MRI analysis for the Human Connectome Project Lifespan Ageing and Development studies*, bioRxiv, [doi](https://doi.org/10.1101/2024.09.19.613907)
+
 - 2023 M. Chappell, **T. Kirk**, ..., M. Woolrich, *BASIL: A toolbox for perfusion quantification using arterial spin labelling*, Imaging Neuroscience, [doi](https://doi.org/10.1162/imag_a_00041)
 
 - 2023 **T. Kirk**, M. Craig and M. Chappell, *Unified surface and volumetric inference on functional imaging data*, Medical Image Computing and Computer Assisted Intervention, [doi](https://doi.org/10.1007/978-3-031-43993-3_39)
