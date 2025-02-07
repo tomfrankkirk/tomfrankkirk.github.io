@@ -3,6 +3,3 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-.DS_Store
-Gemfile.lock
-tdf_map/tdf_map_raw.html

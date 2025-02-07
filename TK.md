@@ -33,7 +33,7 @@ permalink: /cv/
 ## Employment 
 ----
 
-* 2023 onwards: **Co-founder & CEO, Quantified Imaging [current]** 
+* 2023 onwards: **Co-founder & CEO, [Quantified Imaging](https://quantified-imaging.com) [current]** 
     * Leading a spin-out from the University of Nottingham developing new diagnostic technologies for dementia based on ASL MRI.
     * Raised a total of £900k of grants and investment 
     * Led R&D team of six to develop a prototype that gives equivalent performance to the gold-standard technology (PET scanning) 
