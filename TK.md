@@ -33,9 +33,10 @@ permalink: /cv/
 ## Employment 
 ----
 
-* 2022 onwards: **Research Fellow in Physiological Imaging, University of Nottingham [current]** 
-    * Leading the formation of a joint medical imaging spin-out, have completed a 6 month BBSRC ICURe incubator
-    * Responsibilities include identifying routes to market, establishing commercial partnerships, and appliying for seed funding from Innovate UK. 
+* 2023 onwards: **Co-founder & CEO, Quantified Imaging [current]** 
+    * Leading a spin-out from the University of Nottingham developing new diagnostic technologies for dementia based on ASL MRI.
+    * Raised a total of £900k of grants and investment 
+    * Led R&D team of six to develop a prototype that gives equivalent performance to the gold-standard technology (PET scanning) 
 
 * 2021 onwards: **Co-founder and technical lead, [vaximap.org](http://vaximap.org) [current]**
     * Solo development effort for a free-to-use service to optimise Covid-19 vaccination for housebound patients 
