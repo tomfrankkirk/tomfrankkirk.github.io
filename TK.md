@@ -38,7 +38,7 @@ permalink: /cv/
     * Raised a total of £900k of grants and investment 
     * Led R&D team of six to develop a prototype that gives equivalent performance to the gold-standard technology (PET scanning) 
 
-* 2021 onwards: **Co-founder and technical lead, [vaximap.org](http://vaximap.org) [current]**
+* 2021 - 2023: **Co-founder and technical lead, [vaximap.org](http://vaximap.org)**
     * Solo development effort for a free-to-use service to optimise Covid-19 vaccination for housebound patients 
     * To date, has reached over 50% of UK housebound patients and been adopted by the UK Army 
     * Project supported by Microsoft, JHubMed (UK Strategic Command) and Oxford University Innovation. 
