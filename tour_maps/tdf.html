@@ -43,12 +43,9 @@ layout: map_layout
             );
 
             
-
-        
-    
             var tile_layer_5b4096adaf3e495f8c8c644c638540c5 = L.tileLayer(
-                "https://wxs.ign.fr/choisirgeoportail/geoportail/wmts?REQUEST=GetTile\u0026SERVICE=WMTS\u0026VERSION=1.0.0\u0026STYLE=normal\u0026TILEMATRIXSET=PM\u0026FORMAT=image/jpeg\u0026LAYER=ORTHOIMAGERY.ORTHOPHOTOS\u0026TILEMATRIX={z}\u0026TILEROW={y}\u0026TILECOL={x}",
-                {"attribution": "G\u00e9oportail (C) IGN-France", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+                "https://data.geopf.fr/wmts?REQUEST=GetTile&SERVICE=WMTS&VERSION=1.0.0&STYLE={style}&TILEMATRIXSET=PM&FORMAT={format}&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
+                {"attribution": "G\u00e9oportail (C) IGN-France", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false, "style": "normal", "format": "image/jpeg"}
             ).addTo(map_basemap);
         
     
